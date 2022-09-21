@@ -1,0 +1,14 @@
+.heading{
+    width: 100%;
+    margin-top: 0%;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.heading h3{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bolder;
+}
